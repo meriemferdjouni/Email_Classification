@@ -1,0 +1,2 @@
+In this project, we used a public dataset that can be downloaded from Kaggle.
+In data has 2 columns including the text (E-mail) and the label which is the target or the class (1 if the email is a spam or 0 otherwise)
