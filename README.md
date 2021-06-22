@@ -15,7 +15,7 @@ pip install
 ```
 
 ## Dataset
-We use/ analyse data from [Kaggle](https://www.kaggle.com/bagavathypriya/email-spam-dataset) in this project , it is a labeld dataset contains Email messages, each messagae is labeled by the category of the message wether it is spam or not. 
+We use/ analyse data from [Kaggle](https://www.kaggle.com/bagavathypriya/email-spam-dataset) in this project , it is a labeld dataset contains Email messages, each messagae is labeled by the category of the message wether it is a spam or not. 
 
 ## Build With
 
